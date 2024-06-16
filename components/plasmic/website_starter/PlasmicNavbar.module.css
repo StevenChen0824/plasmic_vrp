@@ -1,0 +1,137 @@
+.root:global(.__wab_instance) {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  max-width: 100%;
+  object-fit: cover;
+  justify-self: flex-start;
+  position: relative;
+  text-align: center;
+  align-content: center;
+  grid-column-start: 1 !important;
+  grid-column-end: -1 !important;
+  padding: 16px 32px;
+}
+.freeBox__xy3Qg {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 8px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__xy3Qg {
+    width: 310px;
+    padding-bottom: 0px;
+    height: 93px;
+    flex-wrap: wrap;
+    align-items: stretch;
+  }
+}
+.link__nXmnj {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 0px;
+}
+.img__lsVgs {
+  object-fit: cover;
+  height: 40px;
+}
+.img__lsVgs > picture > img {
+  object-fit: cover;
+}
+.img__oEslX {
+  object-fit: cover;
+  height: 40px;
+}
+.img__oEslX > picture > img {
+  object-fit: cover;
+}
+.svg {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  left: 511px;
+  top: 13px;
+  height: 1em;
+}
+.textInput:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  width: 204px;
+  height: 26px;
+  align-self: center;
+  flex-shrink: 0;
+  margin: 0px 0px 0px 21px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .textInput:global(.__wab_instance) {
+    margin-top: 4px;
+  }
+}
+.svg___3Nlnh {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.svg___2QW9 {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.img__cQzeA {
+  object-fit: cover;
+}
+.img__cQzeA > picture > img {
+  object-fit: cover;
+}
+.img__jItgS {
+  object-fit: cover;
+}
+.img__jItgS > picture > img {
+  object-fit: cover;
+}
+.freeBox__hwpgX {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin-left: 8px;
+  margin-right: 8px;
+  min-width: 0;
+  padding: 8px;
+}
+.link__xuA7K {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  color: #020817;
+}
+.link__hpPt8 {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  color: #020817;
+  margin: 0px 8px;
+}

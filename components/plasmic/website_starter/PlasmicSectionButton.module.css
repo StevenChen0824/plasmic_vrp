@@ -1,0 +1,8 @@
+.root {
+  display: block;
+  width: 83px;
+  height: 28px;
+  max-width: 100%;
+  position: relative;
+  padding: 8px;
+}

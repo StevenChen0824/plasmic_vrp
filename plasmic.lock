@@ -1,0 +1,150 @@
+{
+  "projects": [
+    {
+      "projectId": "r3ASNrnyvLLLAtDvzUioQ",
+      "version": "4.5.0",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "assetId": "r3ASNrnyvLLLAtDvzUioQ",
+          "type": "projectCss",
+          "checksum": "e1ec850476829c38b0f9b6d4f7ac446a"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    },
+    {
+      "projectId": "7nJ7UcFmq9UzB6eXfC5z4a",
+      "version": "0.28.0",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "assetId": "7nJ7UcFmq9UzB6eXfC5z4a",
+          "type": "projectCss",
+          "checksum": "05587b57f22f0ec8bb54543deb39762e"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    },
+    {
+      "projectId": "2tsT8n6ajku6fYy574xJGC",
+      "version": "latest",
+      "dependencies": {
+        "7nJ7UcFmq9UzB6eXfC5z4a": "0.28.0",
+        "r3ASNrnyvLLLAtDvzUioQ": "4.5.0"
+      },
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "fgBKdN0OGx3g",
+          "checksum": "5922bbd96b7a8ed9df0d51cd2d982740"
+        },
+        {
+          "assetId": "2tsT8n6ajku6fYy574xJGC",
+          "type": "projectCss",
+          "checksum": "035cc1c27f2b14ea65e9d10b0c601550"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "5x_zscearfVR",
+          "checksum": "480bb0a42aa014a52bdb55ee8ce9b40a"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "5x_zscearfVR",
+          "checksum": "480bb0a42aa014a52bdb55ee8ce9b40a"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "1ta5oc5TMneu",
+          "checksum": "6a8b760d5798241ffab75d8270d0d22b"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "1ta5oc5TMneu",
+          "checksum": "6a8b760d5798241ffab75d8270d0d22b"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "Xln3E3goIc_z",
+          "checksum": "b3b96a9bd97cf00beddaddffec1194a7"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "Xln3E3goIc_z",
+          "checksum": "b3b96a9bd97cf00beddaddffec1194a7"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "8PsRWvqqX1ul",
+          "checksum": "a89dd38a8459620cb757d15d07e61dd5"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "8PsRWvqqX1ul",
+          "checksum": "a89dd38a8459620cb757d15d07e61dd5"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "WU1FAraewecl",
+          "checksum": "3730201bc1409fdb29c2bc2b85a557fa"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "WU1FAraewecl",
+          "checksum": "3730201bc1409fdb29c2bc2b85a557fa"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "NYGRkB_OH5Zp",
+          "checksum": "925fbe4b10b0003b5740a4231c29d485"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "NYGRkB_OH5Zp",
+          "checksum": "925fbe4b10b0003b5740a4231c29d485"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "OmcuK4nP7Urt",
+          "checksum": "2a2560daacdda7baf2e30496bba3e266"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "OmcuK4nP7Urt",
+          "checksum": "2a2560daacdda7baf2e30496bba3e266"
+        },
+        {
+          "type": "icon",
+          "assetId": "txPsUwN6MeK2",
+          "checksum": "bfd109b1cca067ed38ec7ed233946e2e"
+        },
+        {
+          "type": "icon",
+          "assetId": "aPSFDa_zyml2",
+          "checksum": "3a5df7031bff1a59b9d65c59a3490fff"
+        },
+        {
+          "type": "icon",
+          "assetId": "J9NHYDAQodjO",
+          "checksum": "83c529058eef5f82d1b524d1f3a2bbbc"
+        },
+        {
+          "type": "image",
+          "assetId": "T58Sm5GKVqw2",
+          "checksum": "0b0e15daf50e8439b009a479c9a34be2"
+        },
+        {
+          "type": "image",
+          "assetId": "DG8GE_3y_1Hv",
+          "checksum": "8104097b585f85f32e6b517b5a6a95a2"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.330"
+}
